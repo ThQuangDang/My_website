@@ -1,0 +1,13 @@
+.loading-myorder > span {
+    font-size: 50px;
+    color: rgb(205, 50, 50);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.loading-myorder {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
